@@ -38,7 +38,8 @@ class MainForm implements Form {
 			'title' => "§a§l総選挙！",
 			'content' => "あなたはどっち派！？\n現在: きのこの山 100％\nたけのこの里 0％",
 			'button1' => "きのこの山",
-			'button2' => "たけのこの里"
+			'button2' => "たけのこの里",
+			'button3' => "トッポ"
 		];
 	}
 }
@@ -80,7 +81,8 @@ class TakenokoForm implements Form {
 			'title' => "§a§l総選挙！",
 			'content' => "本当にそっちでいいの？！？",
 			'button1' => "きのこの山",
-			'button2' => "たけのこの里"
+			'button2' => "たけのこの里",
+			'button3' => "トッポ"
 		];
 	}
 }
@@ -110,7 +112,8 @@ class ReversalForm implements Form {
 			'title' => "§a§l総選挙！",
 			'content' => "本当にそっちでいいの？！？",
 			'button1' => "たけのこの里",
-			'button2' => "きのこの山"
+			'button2' => "きのこの山",
+			'button3' => "トッポ"
 		];
 	}
 }
@@ -135,7 +138,8 @@ class KinokoForm implements Form {
 			'title' => "§a§l総選挙！",
 			'content' => "いい加減にしてよ",
 			'button1' => "きのこの山",
-			'button2' => "きのこの山"
+			'button2' => "きのこの山",
+			'button3' => "きのこの山"
 		];
 	}
 }
